@@ -1,0 +1,26 @@
+.head{
+    
+       
+       padding: 0;
+      margin: 0;
+      background-image: url('../../../public/full-4\ \(1\).jpg');
+      background-size: cover;
+   
+      
+        height: 100vh; 
+        opacity: 0.6; 
+    
+      
+}
+
+
+
+.hs{
+    padding-top: 9rem;
+    padding-left: 2rem;
+   
+     font-size: 700 !important;
+   
+}
+
+

@@ -1,0 +1,13 @@
+
+
+
+  .hover-image {
+    width: 100%; /* Ensure image fits the container */
+    height: 100%; /* Ensure image fits the container */
+    transition: transform 0.4s ease-in-out; /* Smooth transition */
+  }
+  
+  .hover-image:hover {
+    transform: scale(1.2); /* Scale the image up on hover */
+  }
+  

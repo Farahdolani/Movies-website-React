@@ -1,0 +1,107 @@
+.footer p {
+    line-height: 30px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+
+.footer-content{
+
+    margin-top: 200px;
+    padding-left: 2rem;
+}
+.footer li {
+
+    border-bottom: #858383;
+    border-style: solid;
+    border-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: 0;
+
+
+}
+
+.sec .l2 {
+    float: left;
+    width: 70%;
+    height: 40px;
+    margin-bottom: 40px;
+
+
+}
+
+.l2 img {
+    float: left;
+    width: 30%;
+
+
+}
+
+.l2 a {
+    text-decoration: none;
+    color: #fffefe;
+    display: block;
+
+}
+
+.hi {
+    width: 66px;
+
+    padding-top: 20px;
+}
+
+.sec a {
+    text-decoration: none;
+    color: #797979;
+    line-height: 50px;
+    font-weight: 500;
+}
+
+.footer span {
+    display: block;
+}
+
+.e p {
+    width: 75%;
+    padding-left: 10px;
+    display: inline;
+}
+
+.footer .no {
+    border-bottom: none;
+}
+
+.footer p {
+    width: 90%;
+}
+
+.footer .fa-star {
+    color: rgb(117, 117, 190);
+}
+
+/* startend */
+.end-end {
+    background-color: #252121;
+    height: 80px;
+}
+
+.end {
+
+
+    overflow: hidden;
+
+}
+
+.end span {
+    float: left;
+    width: 40%;
+    color: #797979;
+
+    padding-left: 40px;
+}
+
+
+
+
